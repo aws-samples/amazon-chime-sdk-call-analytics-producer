@@ -47,6 +47,7 @@ jspm_packages/
 /cdk.out/
 .cdk.staging/
 .parcel-cache/
+!/.github/workflows/upgrade-site.yml
 docker-compose.yaml
 cdk.out
 cdk.context.json
