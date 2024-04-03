@@ -34,7 +34,7 @@
     "eslint": "^8",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-import": "^2.29.1",
-    "projen": "^0.80.12",
+    "projen": "^0.80.15",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.3"
   },
@@ -53,7 +53,7 @@
     "aws-lambda": "^1.0.7",
     "aws4": "^1.12.0",
     "axios": "^1.6.8",
-    "cdk-amazon-chime-resources": "^3.2.2",
+    "cdk-amazon-chime-resources": "^3.2.3",
     "constructs": "^10.0.5",
     "dotenv": "^16.4.5",
     "fastify": "^4.26.2",
