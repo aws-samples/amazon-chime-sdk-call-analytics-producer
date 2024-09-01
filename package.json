@@ -52,7 +52,7 @@
     "aws-cdk-lib": "^2.118.0",
     "aws-lambda": "^1.0.7",
     "aws4": "^1.13.0",
-    "axios": "^1.7.2",
+    "axios": "^1.7.4",
     "cdk-amazon-chime-resources": "^3.2.20",
     "constructs": "^10.0.5",
     "dotenv": "^16.4.5",
